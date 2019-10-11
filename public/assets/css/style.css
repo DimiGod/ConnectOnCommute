@@ -1,0 +1,17 @@
+body{
+    background-color:#292929;
+}
+
+#missionBody{
+    color:white;
+}
+
+#missionTitle{
+    color:white;
+    text-align: center;
+}
+
+.container-fluid{
+    background-image: url("../images/banner.jpg");
+    height: 200px;
+}
